@@ -18,7 +18,7 @@ The main objective of this project is to:
 
     The Devices that do the data collection and networking
 
-    [:octicons-arrow-right-24: Components](components.md)
+    [:octicons-arrow-right-24: Components](./IoT%20Devices/components.md)
 
 -   :material-robot:{ .lg .middle } __Artificial Intelligence__
 
