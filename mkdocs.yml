@@ -43,6 +43,14 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
+plugins:
+- mkdocstrings:
+    handlers:
+      python:
+        options:
+          allow_inspection: true
+          members: true
+
 extra_javascript:
   - assets/js/katex.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
